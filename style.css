@@ -63,6 +63,10 @@ a {
   margin-bottom: 20px;
 }
 
+.btn-dark:hover {
+  color: #eeeeee;
+}
+
 .card-white {
   background-color: white;
   border-radius: 4px;
