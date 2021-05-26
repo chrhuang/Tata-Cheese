@@ -94,3 +94,22 @@ a {
   padding: 0px 20px;
 
 }
+
+.div-center {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.btn-invisible {
+  color: #F6F9FC;
+}
+
+.btn-invisible:hover {
+  color: #393e46;
+  background-color: #00adb5;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
